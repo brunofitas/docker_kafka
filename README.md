@@ -22,6 +22,9 @@ docker run -d -p 9092:9092 --name=kafka_1 \
 `ZOOKEEPER_ADDRESS`
 
 <b>Default:</b>
+
 `ZOOKEEPER_PORT = 2181`
+
 `ADVERTISED_HOSTNAME = [Container IP]`
+
 `ADVERTISED_PORT = 9092`
